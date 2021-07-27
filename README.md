@@ -1,1 +1,1 @@
-Imagem Docker: joaolanati/desafio-go
+Imagem Docker: joaolanati/desafio-go-3
